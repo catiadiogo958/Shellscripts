@@ -1,0 +1,88 @@
+12/05/2026,19:05,,Acedeu como Admin
+12/05/2026,19:05,caixa1,Tentativa falhada de login como Caixa (utilizador: 'caixa1').
+12/05/2026,19:06,Caixa1,Tentativa falhada de login como Caixa (utilizador: 'Caixa1').
+12/05/2026,19:06,2345,Tentativa falhada de login como Caixa (utilizador: '2345').
+12/05/2026,19:06,2345,Acesso de Caixa BLOQUEADO após 3 tentativas falhadas.
+12/05/2026,19:09,,Acedeu como Gerente
+12/05/2026,19:10,Admin1,Tentativa falhada de login como Admin (utilizador: 'Admin1').
+12/05/2026,19:10,admin1,Tentativa falhada de login como Admin (utilizador: 'admin1').
+12/05/2026,19:10,Admin2,Tentativa falhada de login como Admin (utilizador: 'Admin2').
+12/05/2026,19:10,Admin2,Acesso de Admin BLOQUEADO após 3 tentativas falhadas.
+12/05/2026,19:14,,Acedeu como Gerente
+12/05/2026,19:14,Admin1,Tentativa falhada de login como Admin (utilizador: 'Admin1').
+12/05/2026,19:14,Catia Diogo,Tentativa falhada de login como Admin (utilizador: 'Catia Diogo').
+12/05/2026,19:14,1234,Tentativa falhada de login como Admin (utilizador: '1234').
+12/05/2026,19:14,1234,Acesso de Admin BLOQUEADO após 3 tentativas falhadas.
+12/05/2026,19:19,,Acedeu como Gerente
+12/05/2026,19:19,Admin1,Tentativa falhada de login como Admin (utilizador: 'Admin1').
+12/05/2026,19:20,43,Tentativa falhada de login como Admin (utilizador: '43').
+12/05/2026,19:20,43,Tentativa falhada de login como Admin (utilizador: '43').
+12/05/2026,19:20,43,Acesso de Admin BLOQUEADO após 3 tentativas falhadas.
+12/05/2026,19:22,,Acedeu como Gerente
+12/05/2026,19:23,Admin1,Tentativa falhada de login como Admin (utilizador: 'Admin1').
+12/05/2026,19:23,---,Tentativa falhada de login como Admin (utilizador: '---').
+12/05/2026,19:23,3,Tentativa falhada de login como Admin (utilizador: '3').
+12/05/2026,19:23,3,Acesso de Admin BLOQUEADO após 3 tentativas falhadas.
+12/05/2026,19:23,3,Acedeu como Admin
+12/05/2026,19:23,0,Tentativa falhada de login como Caixa (utilizador: '0').
+12/05/2026,19:23,3,Tentativa falhada de login como Caixa (utilizador: '3').
+12/05/2026,19:23,3,Tentativa falhada de login como Caixa (utilizador: '3').
+12/05/2026,19:23,3,Acesso de Caixa BLOQUEADO após 3 tentativas falhadas.
+12/05/2026,19:31,,Acedeu como Gerente
+12/05/2026,19:31,Admin1,Tentativa falhada de login como Admin (utilizador: 'Admin1').
+12/05/2026,19:31,1,Tentativa falhada de login como Admin (utilizador: '1').
+12/05/2026,19:31,1,Tentativa falhada de login como Admin (utilizador: '1').
+12/05/2026,19:31,1,Acesso de Admin BLOQUEADO após 3 tentativas falhadas.
+12/05/2026,19:35,,Acedeu como Gerente
+12/05/2026,19:35,Admin1,Tentativa falhada de login como Admin (utilizador: 'Admin1').
+12/05/2026,19:35,Admin1,Tentativa falhada de login como Admin (utilizador: 'Admin1').
+12/05/2026,19:35,1,Tentativa falhada de login como Admin (utilizador: '1').
+12/05/2026,19:35,1,Acesso de Admin BLOQUEADO após 3 tentativas falhadas.
+12/05/2026,19:38,,Acedeu como Gerente
+12/05/2026,19:38,Admin1,Admin 'Admin1' acedeu ao sistema.
+12/05/2026,19:39,Admin1,Admin terminou sessão.
+13/05/2026,08:16,,Acedeu como Gerente
+13/05/2026,08:16,Admin1,Admin 'Admin1' acedeu ao sistema.
+13/05/2026,08:16,Admin1,Admin terminou sessão.
+13/05/2026,10:17,,Acedeu como Admin
+13/05/2026,10:17,Caixa1,Tentativa falhada de login como Caixa (utilizador: 'Caixa1').
+13/05/2026,10:17,caixa1,Tentativa falhada de login como Caixa (utilizador: 'caixa1').
+13/05/2026,10:17,13,Tentativa falhada de login como Caixa (utilizador: '13').
+13/05/2026,10:17,13,Acesso de Caixa BLOQUEADO após 3 tentativas falhadas.
+13/05/2026,10:17,13,Acedeu como Gerente
+13/05/2026,10:17,Admin1,Admin 'Admin1' acedeu ao sistema.
+13/05/2026,10:17,Admin1,Admin terminou sessão.
+13/05/2026,10:22,,Acedeu como Admin
+13/05/2026,10:22,Caixa1,Tentativa falhada de login como Caixa (utilizador: 'Caixa1').
+13/05/2026,10:22,12,Tentativa falhada de login como Caixa (utilizador: '12').
+13/05/2026,10:22,13,Tentativa falhada de login como Caixa (utilizador: '13').
+13/05/2026,10:22,13,Acesso de Caixa BLOQUEADO após 3 tentativas falhadas.
+13/05/2026,10:23,,Acedeu como Admin
+13/05/2026,10:23,Caixa1,Caixa 'Caixa1' acedeu ao sistema.
+13/05/2026,10:23,Caixa1,Caixa terminou sessão.
+13/05/2026,10:26,,Acedeu como Admin
+13/05/2026,10:26,Caixa1,Caixa 'Caixa1' acedeu ao sistema.
+13/05/2026,10:26,Caixa1,Acedeu como Gerente
+13/05/2026,10:26,Admin1,Admin 'Admin1' acedeu ao sistema.
+13/05/2026,10:27,Admin1,Admin terminou sessão.
+13/05/2026,10:27,Admin1,Acedeu como Caixa
+13/05/2026,10:27,123,Tentativa falhada de login como Gerente (utilizador: '123').
+13/05/2026,10:27,123,Gerente '123' acedeu ao sistema.
+13/05/2026,10:27,123,Acedeu ao relatorio de actividades
+13/05/2026,10:27,123,Gerente terminou sessão.
+13/05/2026,10:34,,Acedeu como Gerente
+13/05/2026,10:35,Caixa1,Tentativa falhada de login como Admin (utilizador: 'Caixa1').
+13/05/2026,10:35,Admin1,Admin 'Admin1' acedeu ao sistema.
+13/05/2026,10:35,Admin1,Admin terminou sessão.
+13/05/2026,10:35,Admin1,Acedeu como Caixa
+13/05/2026,10:35,Gerente1,Tentativa falhada de login como Gerente (utilizador: 'Gerente1').
+13/05/2026,10:36,Gerente1,Tentativa falhada de login como Gerente (utilizador: 'Gerente1').
+13/05/2026,10:36,jhgfd,Tentativa falhada de login como Gerente (utilizador: 'jhgfd').
+13/05/2026,10:36,jhgfd,Acesso de Gerente BLOQUEADO após 3 tentativas falhadas.
+13/05/2026,10:38,,Acedeu como Caixa
+13/05/2026,10:38,Gentente1,Tentativa falhada de login como Gerente (utilizador: 'Gentente1').
+13/05/2026,10:39,Gerente1,Gerente 'Gerente1' acedeu ao sistema.
+13/05/2026,10:39,Gerente1,Gerente acedeu a lista de funcionarios
+13/05/2026,10:39,Gerente1,Gerente terminou sessão.
+13/05/2026,10:48,,Acedeu como Admin
+13/05/2026,10:48,Caixa1,Caixa 'Caixa1' acedeu ao sistema.
