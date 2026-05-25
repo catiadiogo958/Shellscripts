@@ -1,6 +1,3 @@
-#!/bi/bash 
-
-
 
 #!/bin/bash
 
