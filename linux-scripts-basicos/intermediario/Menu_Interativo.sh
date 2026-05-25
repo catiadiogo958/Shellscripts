@@ -1,20 +1,24 @@
 #!/bin/bash
 
+#menu principal que sera executado na tela
 Menu_principal(){
  clear
   while true; do
     echo "|---------------------------------------------------|"
     echo "|      =====MENu ADMINISTRATIVO DO SISTEMA=====     |"
     echo "|---------------------------------------------------|"
-    echo "| [1]. Listar utilizadores do sistema               |"
-    echo "| [2]. Ver utilizadores ligados                     |"
-    echo "| [3]. Ver ultimo login de cada utilizador          |"
-    echo "| [4]. Ver tentativas de login falhadas             |"
+    echo "| [1]. Gestao de Espaco em Disco                    |"
+    echo "| [2]. Gestao de Utilizadores do Sistema            |"
+    echo "| [3]. Monitoramento em Tempo Real                  |"
+    echo "| [4]. Gestao de Rede                               |"
+    echo "| [5]. Gestao de Servico			      |"
+    echo "| [6]. Seguranca do Sistema			      |"
     echo "| [0]. Sair                                         |"
     echo "|---------------------------------------------------|"
     read -p "Escolha a opcao: " op
 
-
+case $op in
+0) "A sair do Sistema..."; exit 0 ;;
 
 
 
@@ -106,3 +110,7 @@ monitora_tempo_real() {
     sleep 2
   done
 }
+
+
+
+Menu_principal
